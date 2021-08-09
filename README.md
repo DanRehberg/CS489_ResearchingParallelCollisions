@@ -1,4 +1,4 @@
-# CS489_ResearchingParallelCollisions
+# CS498_ResearchingParallelCollisions
 Combination of Computational Geometry and Physics to solve a Narrow Phase Time of Intersection Inquiry
 
 This was research for an independent project in CS498 at Colorado State University.
